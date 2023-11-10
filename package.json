@@ -4,6 +4,10 @@
   "private": true,
   "homepage": "https://olekskhom.github.io/goit-react-hw-08-phonebook/",
   "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.16",
+    "@mui/material": "^5.14.17",
     "@reduxjs/toolkit": "^1.9.7",
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
@@ -11,8 +15,12 @@
     "axios": "^1.6.1",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
+    "react-hot-toast": "^2.4.1",
     "react-redux": "^8.1.3",
+    "react-router-dom": "^6.18.0",
     "react-scripts": "5.0.1",
+    "redux-persist": "^6.0.0",
+    "styled-components": "^6.1.1",
     "web-vitals": "^2.1.3"
   },
   "scripts": {

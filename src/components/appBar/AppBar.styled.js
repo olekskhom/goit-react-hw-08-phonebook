@@ -22,7 +22,7 @@ export const StyledLink = styled(NavLink)`
   text-decoration: none;
 
   &.active {
-    color: #ffff00;
+    color: #d66828;
   }
 `;
 
